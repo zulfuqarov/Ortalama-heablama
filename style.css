@@ -1,0 +1,48 @@
+@import url(reset.css);
+.header{
+    width: 100%;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 60px;
+}
+.header h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.section-ortalama{
+    width: 100%;
+    text-align: center;
+}
+.section-ortalama input{
+    padding: 7px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-size: 22px;
+}
+.section-ortalama label{
+    display: inline-block;
+    padding-bottom: 15px;
+    padding-top: 5px;
+    font-size: 22px;
+}
+.btn{
+    font-size: 22px;
+    background-color: aliceblue;
+    margin: 15px;
+    padding: 10px;
+    width: 150px;
+    border-radius: 15px;
+}
+.tablo{
+    width: 100%;
+    background-color: aquamarine;
+    margin-top: 30px;
+}
+td,
+th {
+    border: 1px solid #fff;
+    font-size: 22px;
+    font-family: 700;
+    padding: 5px;
+}
